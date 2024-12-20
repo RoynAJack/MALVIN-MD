@@ -8,7 +8,7 @@ module.exports = {
 ///=================When editing, do not accidentally delete anything !!MAIN-CONFIG=================================
 SESSION_ID: process.env.SESSION_ID || "jNUUFKiI#YfsBzKOAdNdt1s0efIXbPs_maWMGvOSDcYfejQOei2k",  // ADD Your Session Id 
 MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
-PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
+PREFIX: process.env.PREFIX || ".","+","/",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
 BOT_NAME: process.env.BOT_NAME || "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 v2",
 ///=================When editing, do not accidentally delete anything !!CUSTOM-SETTING-CONFIG=====================
